@@ -54,3 +54,5 @@ describe("Tests for student services", () => {
         expect(studentsCredits).toStrictEqual([{name: "Warren"}, {name: "Fuentes"}]);
     });
 });
+
+// Status : 200
